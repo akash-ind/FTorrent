@@ -1,6 +1,6 @@
-# Torrent Client
+# FTorrent
 
-We can download a torrent using this project.
+Torrent Client to download a torrent using this project.
 
 ## Getting Started
 
